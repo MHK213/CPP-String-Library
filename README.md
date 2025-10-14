@@ -2,7 +2,7 @@
 C++ String Library Project
 
 # Description:
-This project is a custom C++ string manipulation library that encapsulates advanced string operations inside a reusable class called clsString.\br
+This project is a custom C++ string manipulation library that encapsulates advanced string operations inside a reusable class called clsString.
 It serves as a mini replacement and enhancement to <string> by providing extended utilities for analyzing, transforming, 
 and formatting text while practicing object-oriented programming concepts such as encapsulation, static methods, and abstraction.
 I relied on OOP concepts such as encapsulation, static methods, and abstraction.

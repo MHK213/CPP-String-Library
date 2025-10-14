@@ -2,13 +2,13 @@
 C++ String Library Project
 
 # Description:
-This project is a custom C++ string manipulation library that encapsulates advanced string operations inside a reusable class called clsString.
+This project is a custom C++ string manipulation library that encapsulates advanced string operations inside a reusable class called clsString.<br>
 It serves as a mini replacement and enhancement to <string> by providing extended utilities for analyzing, transforming, 
-and formatting text while practicing object-oriented programming concepts such as encapsulation, static methods, and abstraction.
-I relied on OOP concepts such as encapsulation, static methods, and abstraction.
+and formatting text while practicing object-oriented programming concepts such as encapsulation, static methods, and abstraction.<br>
+I relied on OOP concepts such as encapsulation, static methods, and abstraction.<br>
 Functions are divided into two types: instance methods that can only be accessed via an object, 
-and static methods that can be accessed via Clsstring::FunctionName().
-The logic is implemented from scratch and does not rely on pre-defined functions in the String library.
+and static methods that can be accessed via Clsstring::FunctionName().<br>
+The logic is implemented from scratch and does not rely on pre-defined functions in the String library.<br>
 
 # Some Functions Used:
 - Split String
@@ -26,6 +26,5 @@ The logic is implemented from scratch and does not rely on pre-defined functions
 - Practice clean code design
 
 
-This project is part of my personal learning journey.
-
+This project is part of my personal learning journey.<br>
 If you like this project, please ⭐ the repository
